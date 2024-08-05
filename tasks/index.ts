@@ -1,0 +1,8 @@
+import './01_setupSender'
+import './02_setupProtocol'
+import './03_transferToken'
+import './04_readMessage'
+import './05_readProtocol'
+import './06_redeemProtocol'
+import './07_withdrawSenderFunds'
+import './08_withdrawProtocolFunds'
